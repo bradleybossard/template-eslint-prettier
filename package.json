@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/bradleybossard/template-eslint-prettier/issues"
   },
-  "homepage": "https://github.com/bradleybossard/template-eslint-prettier#readme"
+  "homepage": "https://github.com/bradleybossard/template-eslint-prettier#readme",
+  "devDependencies": {
+    "eslint": "5.12.0",
+    "eslint-config-prettier": "3.5.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "prettier": "1.15.3"
+  }
 }
